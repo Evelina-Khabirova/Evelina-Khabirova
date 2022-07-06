@@ -1,16 +1,22 @@
-### Hi there 👋
+# Привет, меня зовут Эвелина 👋
 
-<!--
-**Evelina-Khabirova/Evelina-Khabirova** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+На своей странице гитхаб я практикую навыки веб-разработки и публикую проекты.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Мои навыки
+<p float="left">
+  <img src="https://cdn.icon-icons.com/icons2/1488/PNG/512/5352-html5_102567.png" width="50px">  
+  <img src="https://cdn.icon-icons.com/icons2/1488/PNG/512/5351-css3_102605.png" width="50px">
+  &ensp;
+  <img src="https://cdn.icon-icons.com/icons2/2108/PNG/512/javascript_icon_130900.png" width="50px">
+  &ensp;
+  <img src="https://cdn.icon-icons.com/icons2/3207/PNG/512/node_icon_196185.png" width="50px">
+  <img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_git_icon_130581.png" width="50px">
+  <img src="https://cdn.icon-icons.com/icons2/2248/PNG/512/api_icon_135949.png" width="50px">
+  <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/webpack_original_logo_icon_146300.png" width="50px">
+  &ensp;
+  <img src="https://cdn.icon-icons.com/icons2/1859/PNG/512/programming_117944.png" width="50px">
+  &ensp;
+  <img src="https://cdn.icon-icons.com/icons2/2148/PNG/512/bem_icon_132559.png" width="50px">
+  <img src="https://cdn.icon-icons.com/icons2/2429/PNG/512/figma_logo_icon_147289.png" width="50px">
+</p>
+HTML&emsp;&ensp;CSS&emsp;JavaScript&ensp;Node.js&emsp;Git&emsp;&emsp;API&emsp;Webpack&emsp;OOP&emsp;&ensp;BEM&emsp;&ensp;Figma
