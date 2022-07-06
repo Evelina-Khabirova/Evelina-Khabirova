@@ -17,6 +17,17 @@
   <img src="https://cdn.icon-icons.com/icons2/1859/PNG/512/programming_117944.png" width="50px">
   &ensp;
   <img src="https://cdn.icon-icons.com/icons2/2148/PNG/512/bem_icon_132559.png" width="50px">
+  &ensp;
   <img src="https://cdn.icon-icons.com/icons2/2429/PNG/512/figma_logo_icon_147289.png" width="50px">
 </p>
-HTML&emsp;&ensp;CSS&emsp;JavaScript&ensp;Node.js&emsp;Git&emsp;&emsp;API&emsp;Webpack&emsp;OOP&emsp;&ensp;BEM&emsp;&ensp;Figma
+
+* HTML
+* CSS
+* JavaScript
+* Node.js
+* Git
+* API
+* Webpack
+* OOP
+* BEM
+* Figma
