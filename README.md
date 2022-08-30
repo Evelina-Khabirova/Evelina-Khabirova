@@ -19,6 +19,8 @@
   <img src="https://cdn.icon-icons.com/icons2/2148/PNG/512/bem_icon_132559.png" width="50px">
   &ensp;
   <img src="https://cdn.icon-icons.com/icons2/2429/PNG/512/figma_logo_icon_147289.png" width="50px">
+  &ensp;
+  <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/react_original_logo_icon_146374.png" width="50px">
 </p>
 
 * HTML
@@ -31,3 +33,4 @@
 * OOP
 * BEM
 * Figma
+* React
